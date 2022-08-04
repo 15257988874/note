@@ -17,6 +17,7 @@
 
 强制推送: git push origin branch-name --force
 
+远端服务器覆盖本地仓库
 git fetch --all && git reset --hard origin/master && git pull
 
 上述name一般为origin
