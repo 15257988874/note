@@ -6,13 +6,17 @@
 
 > mac 应用下载地址, [macWk](https://macwk.com/)
 
+### markdown 工具
+
+- [typora](https://macwk.com/soft/typora)
+
 ### 剪切板工具
 
 - [clipy](https://clipy-app.com/)
 
 ### 最强大的工具台
 
-[AIfred](https://www.alfredapp.com/)
+- [AIfred](https://www.alfredapp.com/)
 
 ### 截图工具
 
@@ -29,3 +33,13 @@
 ### 高亮导出代码片段
 
 - codye, appStore 中下载
+
+### API 文档及带代码片段管理
+
+- [dash](https://macwk.com/soft/dash)
+
+### 语雀
+
+### 屏幕录制
+
+- [LICEcap](https://licecap.en.softonic.com/?ex=CORE-1224.1)
